@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Строка из ветки master
+=======
+Строка из ветки conflict-branch
+>>>>>>> conflict-branch
